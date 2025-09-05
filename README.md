@@ -58,8 +58,9 @@ By the end of this challenge, I aim to:
 ---
 
 ## 📬 Connect With Me
-- GitHub: [YourProfile](https://github.com/Niteshkumarchauhan)  
-- LinkedIn: [YourProfile](https://www.linkedin.com/in/nitesh-kumar-chauhan/)
+- GitHub: [Nitesh Kumar Chauhan](https://github.com/Niteshkumarchauhan)  
+- LinkedIn: [Nitesh Kumar Chauhan](https://www.linkedin.com/in/nitesh-kumar-chauhan/)
 
 ---
+
 
